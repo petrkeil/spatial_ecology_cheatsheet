@@ -1,4 +1,4 @@
-# Spatial ecology cheatheet
+# Spatial ecology cheatsheet
 
 This is a rather random assortment of references on issues of geometry, fractals, aggregation and scaling in ecology.
 
