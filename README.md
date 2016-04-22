@@ -3,6 +3,7 @@
 This is a rather random assortment of references on issues of geometry, fractals, aggregation and scaling in ecology.
 
 ## General treatments
+
 - [Storch et al. 2007](http://ebooks.cambridge.org/ebook.jsf?bid=CBO9780511814938) put together a multiauthor book which is highly relevant on the issues of scaling, biodiversity, fractals, species-area relationships and geometry.
 
 ## Fractals
