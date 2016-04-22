@@ -8,7 +8,6 @@ This is a rather random assortment of references on issues of geometry, fractals
 ## Fractals
 
 - [Halley et al. 2004](http://www.uvm.edu/~pdodds/files/papers/others/2004/halley2004a.pdf) provide, to my knowledge, the most useful and authoritative practical guide to fractals in ecology.
-- 
 
 ## Scaling of beta diversity
 
@@ -18,7 +17,7 @@ This is a rather random assortment of references on issues of geometry, fractals
 
 ## Patterns of aggregation
 
-Dylan has pointed me out to [Condit et al. 2000](http://faculty.jsd.claremont.edu/dmcfarlane/bio176mcfarlane/pdf%20papers/Condit%20et%20al%202000.pdf) who found that most BCI trees follow spatial distribution that deviates from random.
+- Dylan has pointed me out to [Condit et al. 2000](http://faculty.jsd.claremont.edu/dmcfarlane/bio176mcfarlane/pdf%20papers/Condit%20et%20al%202000.pdf) who found that most BCI trees follow spatial distribution that deviates from random.
 
 ## Spatial scaling of biotic interactions
 
