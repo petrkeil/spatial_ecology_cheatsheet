@@ -19,7 +19,7 @@ This is a rather random assortment of references on issues of geometry, fractals
 
 - [Mokany et al. 2013](http://onlinelibrary.wiley.com/doi/10.1111/jbi.12175/full) did simulation study exploring scaline of paiwise beta diversity with area.
 - [Mokany et al. 2011](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2011.01675.x/full) made a crazy algorithm that can combine alpha and beta diversity to predict spatial patterns of both richness and composition.
-- [Keil et al. 2012](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2012.02701.x/abstract) explore **spatial scaling of distance decay of similarity**.
+- [Keil et al. 2012](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2012.02701.x/abstract) explore spatial scaling of distance decay of similarity.
 - [Sizling & Storch 2004](http://www.cts.cuni.cz/~storch/publications/Sizling%20&%20Storch%202004.pdf) write on species-area relationships, fractals, beta diversity and self-similarity.
 - [Azaele et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12319/abstract) predict patterns of biodiversity across spatial scales using pair correlation function.
 
