@@ -15,6 +15,7 @@ This is a rather random assortment of references on issues of geometry, fractals
 
 - [Kunin 1998](http://science.sciencemag.org/content/281/5382/1513.full-text.pdf+html) has started it all.
 - [Azaele et al. 2012](https://www.researchgate.net/publication/225077957_Downscaling_species_occupancy_from_coarse_spatial_scales) provide the best introduction to and evaluation of single-species occupancy downscaling.
+- [Hartley et al. 2004](http://rspb.royalsocietypublishing.org/content/271/1534/81) describe how species aggregation at different scales reflects different processes. The paper title is quite telling: "Coherence and discontinuity in the scaling of specie's distribution patterns".
 
 ## Scaling of beta diversity, distance decays, SAR
 
