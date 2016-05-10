@@ -8,6 +8,7 @@ This is a rather random assortment of references on issues of geometry, fractals
 
 ## Fractals in ecology
 
+- [Brown et al. 2002](http://www.fractal.org/Bewustzijns-Besturings-Model/Fractal-Nature.pdf) on fractal nature of nature.
 - [Halley et al. 2004](http://www.uvm.edu/~pdodds/files/papers/others/2004/halley2004a.pdf) provide, to my knowledge, the most useful and authoritative practical intro to fractals in ecology.
 - [Lennon et al. 2002](http://personal.victoria.ac.nz/stephen_hartley/pdfs/Lennon%20et%20al%2002%20OIKOS%20fractal%20SAR.PDF) makes the point that fractal species distributions do not produce power-law species area relationship. 
 
@@ -21,6 +22,11 @@ This is a rather random assortment of references on issues of geometry, fractals
 - [Kunin 1998](http://science.sciencemag.org/content/281/5382/1513.full-text.pdf+html) has started it all.
 - [Azaele et al. 2012](https://www.researchgate.net/publication/225077957_Downscaling_species_occupancy_from_coarse_spatial_scales) provide the best introduction to and evaluation of single-species occupancy downscaling.
 - [Hartley et al. 2004](http://rspb.royalsocietypublishing.org/content/271/1534/81) describe how species aggregation at different scales reflects different processes. The paper title is quite telling: "Coherence and discontinuity in the scaling of specie's distribution patterns".
+- [Barwell et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/ddi.12203/full) -- more on downscaling.
+
+## Can static scaling of species distributions predict range dynamics?
+
+- [Wilson et al. 2004](http://www.nature.com/nature/journal/v432/n7015/full/nature03031.html) show, in a really original and fun paper, how scaling of static species distributions can predict temporal range dynamics, and ultimately, biodiversity change.
 
 ## Scaling of beta diversity, distance decays, SAR
 
