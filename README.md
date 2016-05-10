@@ -1,6 +1,6 @@
 # Spatial ecology cheatsheet
 
-This is a rather random assortment of references on issues of geometry, fractals, aggregation and scaling in ecology.
+This is a rather random assortment of references on issues of geometry, fractals, aggregation and scaling in ecology. Mostly stuff that I learned from my teachers during my PhD studies and during my first postdoctoral years.
 
 ## General treatments
 
