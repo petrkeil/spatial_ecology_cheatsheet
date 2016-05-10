@@ -9,6 +9,7 @@ This is a rather random assortment of references on issues of geometry, fractals
 ## Fractals
 
 - [Halley et al. 2004](http://www.uvm.edu/~pdodds/files/papers/others/2004/halley2004a.pdf) provide, to my knowledge, the most useful and authoritative practical intro to fractals in ecology.
+- [Lennon et al. 2002](http://personal.victoria.ac.nz/stephen_hartley/pdfs/Lennon%20et%20al%2002%20OIKOS%20fractal%20SAR.PDF) makes the point that fractal species distributions do not produce power-law species area relationship. 
 
 ## Cross-scale aggregation of single-species distributions
 
