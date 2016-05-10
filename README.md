@@ -6,10 +6,15 @@ This is a rather random assortment of references on issues of geometry, fractals
 
 - [Storch et al. 2007](http://ebooks.cambridge.org/ebook.jsf?bid=CBO9780511814938) put together a multiauthor book which is highly relevant on the issues of scaling, biodiversity, fractals, species-area relationships and geometry.
 
-## Fractals
+## Fractals in ecology
 
 - [Halley et al. 2004](http://www.uvm.edu/~pdodds/files/papers/others/2004/halley2004a.pdf) provide, to my knowledge, the most useful and authoritative practical intro to fractals in ecology.
 - [Lennon et al. 2002](http://personal.victoria.ac.nz/stephen_hartley/pdfs/Lennon%20et%20al%2002%20OIKOS%20fractal%20SAR.PDF) makes the point that fractal species distributions do not produce power-law species area relationship. 
+
+## Why should species distributions (and the world) be fractal?
+
+- [Peckham et al. 2010](http://onlinelibrary.wiley.com/wol1/doi/10.1029/94WR03155/abstract) contemplates fractal in river networks.
+- [Morse et al. 1985](http://www.nature.com/nature/journal/v314/n6013/pdf/314731a0.pdf) on fractal dimensions of vegetation.
 
 ## Cross-scale aggregation of single-species distributions
 
