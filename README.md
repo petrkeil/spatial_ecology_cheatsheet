@@ -24,7 +24,7 @@ This is a rather random assortment of references on issues of geometry, fractals
 - [Hartley et al. 2004](http://rspb.royalsocietypublishing.org/content/271/1534/81) describe how species aggregation at different scales reflects different processes. The paper title is quite telling: "Coherence and discontinuity in the scaling of specie's distribution patterns".
 - [Barwell et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/ddi.12203/full) -- more on downscaling.
 
-## Can static scaling of species distributions predict range dynamics?
+## Can static scaling of species distributions predict range dynamics and biodiversity change?
 
 - [Wilson et al. 2004](http://www.nature.com/nature/journal/v432/n7015/full/nature03031.html) show, in a really original and fun paper, how scaling of static species distributions can predict temporal range dynamics, and ultimately, biodiversity change.
 
