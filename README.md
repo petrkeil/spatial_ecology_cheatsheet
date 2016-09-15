@@ -51,4 +51,12 @@ This is a rather random assortment of references on issues of geometry, fractals
 - [Araujo & Rozenfeld 2014](http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2013.00643.x/full) write on sptail scaling of biotic interactions.
 - [Seguardo et al. 2012](https://www.researchgate.net/publication/232273519_Patterns_of_coexistence_of_two_species_of_freshwater_turtles_are_affected_by_spatial_scale) write on scale-dependency of coexistence of two species of freshwater turtles.
  
+## Upscaling local samples to estimate large-scale richness
+
+-- [Mokany et al. 2011](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2011.01675.x/full). Potentially, their algorithm can be used to upscale species richness.
+-- [Zillio & He 2010](https://sites.ualberta.ca/~fhe/He-publications/Zillio_He.Oikos2010.pdf) present a Bayesian method to upscale SADs.
+-- [Shen & He 2008](https://sites.ualberta.ca/~fhe/He-publications/Shen_He.Ecology08.pdf) use zero-truncated binomial distribution to upscale.
+-- [Rominger & Merrow 2016](http://www.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12625/abstract) introduce R package MeteR (package for testing predictions of Maximum Entropy Theory of Ecology), which can be used to upscale richness. 
+
+
 
