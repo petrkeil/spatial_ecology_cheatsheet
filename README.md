@@ -5,6 +5,8 @@ This is a rather random assortment of references on issues of geometry, fractals
 ## General treatments
 
 - [Storch et al. 2007](http://ebooks.cambridge.org/ebook.jsf?bid=CBO9780511814938) put together a multiauthor book which is highly relevant on the issues of scaling, biodiversity, fractals, species-area relationships and geometry.
+- [Storch et al. 2008](http://www.cts.cuni.cz/~storch/publications/Storch_et_al_2008.pdf)'s Figure 1 gives a good overview of how different spatial patterns are connected.
+- [Storch 2016](http://www.cts.cuni.cz/~storch/publications/Storch_2016_JVS_Nested_SAR.pdf) summarizes the general theory of nested species-area relationships.
 
 ## Fractals in ecology
 
@@ -17,7 +19,7 @@ This is a rather random assortment of references on issues of geometry, fractals
 - [Peckham et al. 2010](http://onlinelibrary.wiley.com/wol1/doi/10.1029/94WR03155/abstract) contemplates fractal in river networks.
 - [Morse et al. 1985](http://www.nature.com/nature/journal/v314/n6013/pdf/314731a0.pdf) on fractal dimensions of vegetation.
 
-## Cross-scale aggregation of single-species distributions
+## Cross-scale aggregation of single-species distributions, occupancy-area relationships
 
 - [Kunin 1998](http://science.sciencemag.org/content/281/5382/1513.full-text.pdf+html) has started it all.
 - [Azaele et al. 2012](https://www.researchgate.net/publication/225077957_Downscaling_species_occupancy_from_coarse_spatial_scales) provide the best introduction to and evaluation of single-species occupancy downscaling.
@@ -36,6 +38,7 @@ This is a rather random assortment of references on issues of geometry, fractals
 - [Sizling & Storch 2004](http://www.cts.cuni.cz/~storch/publications/Sizling%20&%20Storch%202004.pdf) write on species-area relationships, fractals, beta diversity and self-similarity.
 - [Azaele et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12319/abstract) predict patterns of biodiversity across spatial scales using pair correlation function.
 - [Lennon et al. 2001](http://onlinelibrary.wiley.com/doi/10.1046/j.0021-8790.2001.00563.x/pdf) show how beta diversity and species-area relationships vary geographically over the UK.
+- [Storch et al. 2012](http://www.cts.cuni.cz/~storch/publications/Storch_et_al_2012_Nature_Universal_SAR_and_EAR.pdf) shows universal SAR accross multiple taxa and globally.
 
 ## Patterns of aggregation
 
