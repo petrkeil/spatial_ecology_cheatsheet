@@ -70,7 +70,7 @@ This is a rather random assortment of references on issues of geometry, fractals
 ## Spatial properties of range maps vs. point detections
 - [Merrow et al. 2016](http://onlinelibrary.wiley.com/doi/10.1111/geb.12539/abstract) show some elegant and simple tricks for how to combine point data with range maps to map species distributions.
 - [Hurlbert & Jetz 2007](http://www.pnas.org/content/104/33/13384.full) write on scale-dependence of range maps and on the "minimum reliable resolution" of ~ 100 x 100 km^2.
-
+- [Keil et al. 2014](http://onlinelibrary.wiley.com/doi/10.1111/ddi.12199/abstract) further dissects the reliability and scale-dependence of range maps and point records. A lot of the work is in the appendix.
 
 
 
