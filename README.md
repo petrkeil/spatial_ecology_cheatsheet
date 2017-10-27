@@ -61,5 +61,17 @@ This is a rather random assortment of references on issues of geometry, fractals
 - [Shen & He 2008](https://sites.ualberta.ca/~fhe/He-publications/Shen_He.Ecology08.pdf) use zero-truncated binomial distribution to upscale.
 - [Rominger & Merrow 2016](http://www.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12625/abstract) introduce R package MeteR (package for testing predictions of Maximum Entropy Theory of Ecology), which can be used to upscale richness. 
 
+## Statistical downscaling in ecology and macroecology
+
+- [McInerny & Purves 2011](http://onlinelibrary.wiley.com/doi/10.1111/j.2041-210X.2010.00077.x/abstract) show how to estimate fine-grain niche from coarse-grain environmental data and point species detections.
+- [Keil et al. 2012](http://onlinelibrary.wiley.com/doi/10.1111/j.2041-210x.2012.00264.x/full) show how to do the opposite, i.e. how to estimate fine-grain species distribution from coarse-grain occurrences and fine-grain environment.
+- [Keil et al. 2014](http://onlinelibrary.wiley.com/doi/10.1890/13-0805.1/full) show how to downscale spatial patterns of species richness.
+
+## Spatial properties of range maps vs. point detections
+- [Merrow et al. 2016](http://onlinelibrary.wiley.com/doi/10.1111/geb.12539/abstract) show some elegant and simple tricks for how to combine point data with range maps to map species distributions.
+- [Hurlbert & Jetz 2007](http://www.pnas.org/content/104/33/13384.full) write on scale-dependence of range maps and on the "minimum reliable resolution" of ~ 100 x 100 km^2.
+
+
+
 
 
